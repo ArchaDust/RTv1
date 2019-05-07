@@ -14,8 +14,8 @@ Any number of lights can be placed on a scene.
 
 
 Future plans:
--port to Windows
--port to SDL2
--thread usage cleanup, it looks **horrible** right now
--optimizations
--specular lighting
+-port to Windows\n
+-port to SDL2\n
+-thread usage cleanup, it looks **horrible** right now\n
+-optimizations\n
+-specular lighting\n

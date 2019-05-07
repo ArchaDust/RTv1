@@ -3,9 +3,7 @@ Little raytracing project from 42/101, it is old and need some cleanup. Should c
 
 
   "libft/" contains most libc functions rewritten to 42/101's norm (part of the Libft project).
-  
   "minilibx_macos/" contains the graphic library MLX, created by Ol' in 2002 for Epitech.
-  
   "scenes/" contains basics scenes to play around.
 
 

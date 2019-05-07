@@ -8,7 +8,7 @@ Little raytracing project from 42/101, it is old and need some cleanup. Should c
 Four simple form can be used: Sphere, Plane, Cylinder and Double Cones.<br/>
 Any number of lights can be placed on a scene.
 
-Future plans:
+Future plans:<br/>
 -port to Windows<br/>
 -port to SDL2<br/>
 -thread usage cleanup, it looks **horrible** right now<br/>
